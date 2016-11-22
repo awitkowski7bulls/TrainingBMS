@@ -1,4 +1,4 @@
-package eu.sig.training.ch04;
+package eu.sig.training.ch04.account;
 
 import eu.sig.training.ch04.Money;
 

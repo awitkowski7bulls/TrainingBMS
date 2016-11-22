@@ -1,7 +1,7 @@
-package eu.sig.training.ch04;
+package eu.sig.training.ch04.account;
 
-import eu.sig.training.ch04.Money;
-
+import eu.sig.training.ch04.dto.Money;
+import eu.sig.training.ch04.dto.Transfer;
 
 public class AccountUtil {
 
